@@ -1,0 +1,1 @@
+This is Sterfan's first git project!
